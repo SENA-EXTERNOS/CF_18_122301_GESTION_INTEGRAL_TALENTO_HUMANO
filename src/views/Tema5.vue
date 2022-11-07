@@ -59,14 +59,14 @@
 
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b")
-        .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-start.py-4
+          .col-md-5.mb-4.mb-md-0
             h4.mb-4 Mapa de calor
             p Muestra la posible relación entre variables. Se suele utilizar para datos que cambian con el tiempo. Usa colores para explorar la relación entre variables.        
           .col-md-6 
               img.img-a.img-t(src='@/assets/curso/temas/52.png', alt='')
-        .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-start.py-4
+          .col-md-5.mb-4.mb-md-0
             h4.mb-4 Diagrama de caja y bigotes
             p Muestra la distribución de datos y resalta el promedio y los valores no frecuentes. Tienen líneas que se extienden verticalmente y sobresalen, llamadas bigotes, que muestran el mínimo y el máximo y cualquier dato que no se encuentre dentro del rango es marcado e identificado de forma individual.
 
@@ -74,8 +74,8 @@
          
           .col-md-6 
               img.img-a.img-t(src='@/assets/curso/temas/53.png', alt='')    
-        .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-start.py-4
+          .col-md-5.mb-4.mb-md-0
             h4.mb-4 Diagrama de barras
             p Gráfico de barras horizontales que recoge la frecuencia con que se repite una determinada variable en cada uno de los distintos grupos en los que se ha dividido un conjunto. 
 
@@ -83,28 +83,28 @@
          
           .col-md-6 
               img.img-a.img-t(src='@/assets/curso/temas/54.png', alt='')   
-        .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-start.py-4
+          .col-md-5.mb-4.mb-md-0
             h4.mb-4 Gráfico de líneas 
             p Permite visualizar los cambios a lo largo de una categoría continua, como tiempo o distancia. Observar un cambio con un gráfico de líneas, permite ver de una sola vez la tendencia general y comparar al mismo tiempo, varias tendencias.         
           .col-md-6 
               img.img-a.img-t(src='@/assets/curso/temas/55.png', alt='')   
-        .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-start.py-4
+          .col-md-5.mb-4.mb-md-0
             h4.mb-4 Histograma
             p Gráfico que indica la frecuencia de un hecho mediante una distribución de los datos. No se elabora con atributos, sino con variables medibles como: peso, temperatura y tiempo.
 
             p Es similar a un diagrama de barras, donde cada una representa cómo se distribuyen los datos en una categoría única y la cantidad de frecuencias de un punto de datos específico.         
           .col-md-6 
               img.img-a.img-t(src='@/assets/curso/temas/56.png', alt='')   
-        .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-start.py-4
+          .col-md-5.mb-4.mb-md-0
             h4.mb-4 Gráfico en mosaico
             p Se utiliza para mostrar la relación entre dos variables, ya sean factores o cadenas de texto. Es una representación gráfica de una tabla de contingencia. Consiste en una cuadrícula, en la que cada rectángulo representa la cantidad de casos que corresponden a un cruce específico de variables.         
           .col-md-6 
               img.img-a.img-t(src='@/assets/curso/temas/57.png', alt='')   
-        .row.justify-content-center.align-items-start
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center.align-items-start.py-4
+          .col-md-5.mb-4.mb-md-0
             h4.mb-4 Gráfico circular 
             p Es útil para ilustrar la relación de las partes con el todo cuando hay una cantidad reducida de niveles. Es una forma popular de mostrar qué parte de la cantidad total (las ventas anuales) representa cada cantidad individual (las ventas trimestrales).         
           .col-md-6 

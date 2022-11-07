@@ -28,7 +28,7 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/33.png', alt='') 
 
-    p(data-aos="fade-down").mb-5 Nadie quiere que el plan A falle, pero tener un buen plan B es la mejor manera de estar preparado para cualquier situación. Con un plan de respaldo sólido, se puede reaccionar de manera efectiva ante imprevistos y volver a la normalidad lo más rápido posible.
+    p(data-aos="fade-down").mb-5 Nadie quiere que el <b>plan A</b> falle, pero tener un buen <b>plan B</b> es la mejor manera de estar preparado para cualquier situación. Con un plan de respaldo sólido, se puede reaccionar de manera efectiva ante imprevistos y volver a la normalidad lo más rápido posible.
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10 
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
@@ -39,19 +39,19 @@
 
     .tarjeta-gris.p-4.mb-5
       LineaTiempoC.color-primario(text-small)
-        .row.justify-content-center.align-items-center(titulo="Paso 1")
+        .row.justify-content-center.align-items-start(titulo="Paso 1")
           .col-md-5.mb-4.mb-md-0
             img.img-a.img-t(src='@/assets/curso/temas/34.png', alt='')
           .col-md-5 
             h4.mb-3 Identificar los posibles riesgos
             p Realizar una lista de cada uno de los riesgos que podrían afectar el normal desarrollo de la capacitación o del plan de capacitación; se puede realizar una lluvia de ideas con el personal que ayuda con el desarrollo del plan de capacitación o capacitación específica. 
-        .row.justify-content-center.align-items-center(titulo="Paso 2")
+        .row.justify-content-center.align-items-start(titulo="Paso 2")
           .col-md-5.mb-4.mb-md-0
             img.img-a.img-t(src='@/assets/curso/temas/35.png', alt='')
           .col-md-5 
             h4.mb-3 Evaluar los riesgos según su gravedad y probabilidad
             p Identificados los riesgos y las amenazas potenciales, se procede a realizar un análisis de riesgo e identificar el posible impacto de cada uno de ellos.  
-        .row.justify-content-center.align-items-center(titulo="Paso 3")
+        .row.justify-content-center.align-items-start(titulo="Paso 3")
           .col-md-5.mb-4.mb-md-0
             img.img-a.img-t(src='@/assets/curso/temas/36.png', alt='')
           .col-md-5 
@@ -59,25 +59,25 @@
             p Una vez asignado el grado de gravedad y probabilidad de cada riesgo, se decide cuáles riesgos son los más importantes para abordar. 
 
             p Ejemplo: riesgo de evento de la salud del participante en la capacitación. Riesgo de evento de la salud del conferencista.  
-        .row.justify-content-center.align-items-center(titulo="Paso 4")
+        .row.justify-content-center.align-items-start(titulo="Paso 4")
           .col-md-5.mb-4.mb-md-0
             img.img-a.img-t(src='@/assets/curso/temas/37.png', alt='')
           .col-md-5 
             h4.mb-3 Crear un plan de contingencia para los mayores riesgos
             p Crear un plan de contingencia para cada riesgo que se identifique. Tener en cuenta aspectos como: factores desencadenantes que pondrán en marcha el plan, respuesta inmediata, quiénes deben participar y recibir informes, responsabilidades claves, cronograma de respuestas. 
-        .row.justify-content-center.align-items-center(titulo="Paso 5")
+        .row.justify-content-center.align-items-start(titulo="Paso 5")
           .col-md-5.mb-4.mb-md-0
             img.img-a.img-t(src='@/assets/curso/temas/38.png', alt='')
           .col-md-5 
             h4.mb-3 Aprobación del plan de contingencia
             p Los líderes relevantes de la empresa, deberán conocer el plan y generar la respectiva aprobación de las acciones y medidas a tomar. 
-        .row.justify-content-center.align-items-center(titulo="Paso 6")
+        .row.justify-content-center.align-items-start(titulo="Paso 6")
           .col-md-5.mb-4.mb-md-0
             img.img-a.img-t(src='@/assets/curso/temas/39.png', alt='')
           .col-md-5 
             h4.mb-3 Socialización de los planes de contingencia 
             p Una vez creados los planes de contingencia, se deben socializar con las personas pertinentes.  
-        .row.justify-content-center.align-items-center(titulo="Paso 7")
+        .row.justify-content-center.align-items-start(titulo="Paso 7")
           .col-md-5.mb-4.mb-md-0
             img.img-a.img-t(src='@/assets/curso/temas/40.png', alt='')
           .col-md-5 

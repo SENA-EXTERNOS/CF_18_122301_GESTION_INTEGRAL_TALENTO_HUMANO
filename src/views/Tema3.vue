@@ -86,7 +86,7 @@
     
     .row.justify-content-center.align-items-start
       .col-lg-4
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/28.png', alt='')       
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/29.png', alt='')       
       .col-lg-8
         p(data-aos="fade-down") Para llevar un control de las personas participantes, es importante que se genere una inscripción previa, para así poder definir los recursos logísticos como: capacidad del salón, cantidad de refrigerios, certificados de asistencia, entre otros.
 
