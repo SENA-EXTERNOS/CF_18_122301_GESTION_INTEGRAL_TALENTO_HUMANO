@@ -107,7 +107,10 @@
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/16.svg', alt='')    
       .col-lg-10
-        p(data-aos="fade-down") Una vez revisados los elementos que se deben tener en cuenta para el buen funcionamiento de una capacitación, es importante tener presente los soportes documentales que se deben obtener al final de su ejecución, debido a que ellos serán la evidencia de la gestión llevada a cabo. 
+        p(data-aos="fade-down") Una vez revisados los elementos que se deben tener en cuenta para el buen funcionamiento de una capacitación, es importante tener presente los soportes documentales que se deben obtener al final de su ejecución, debido a que ellos serán la evidencia de la gestión llevada a cabo.
+
+    p(data-aos="fade-down").mb-5 Normalmente, de la culminación de un programa de capacitación se desprende la siguiente documentación:        
+
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/17.png', alt='')    

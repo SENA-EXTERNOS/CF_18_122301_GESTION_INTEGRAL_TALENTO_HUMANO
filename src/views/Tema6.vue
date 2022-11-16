@@ -25,7 +25,7 @@
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/63.png', alt='')    
       .col-lg-10
-        p(data-aos="fade-down") El esfuerzo que una empresa realiza al desarrollar planes de capacitación para sus colaboradores, con el ánimo de afrontar los desafíos del mercado, debe ser medible de alguna manera para poder evaluar la gestión del proceso de capacitación y su impacto en la organización. Los indicadores de gestión o KPI por sus siglas en inglés Key Performance Indicator (Indicador clave de desempeño), son la expresión cuantitativa del comportamiento y desempeño de un proceso, cuya magnitud, al ser comparada con algún nivel de referencia, puede estar señalando una desviación sobre la cual se toman acciones correctivas o preventivas, según sea el caso. 
+        p(data-aos="fade-down") El esfuerzo que una empresa realiza al desarrollar planes de capacitación para sus colaboradores, con el ánimo de afrontar los desafíos del mercado, debe ser medible de alguna manera para poder evaluar la gestión del proceso de capacitación y su impacto en la organización. Los indicadores de gestión o KPI por sus siglas en inglés <i>Key Performance Indicator</i> (Indicador clave de desempeño), son la expresión cuantitativa del comportamiento y desempeño de un proceso, cuya magnitud, al ser comparada con algún nivel de referencia, puede estar señalando una desviación sobre la cual se toman acciones correctivas o preventivas, según sea el caso. 
 
     p(data-aos="fade-down").mb-5 Existen varias clases de indicadores de gestión, algunos son:  
 
@@ -36,20 +36,24 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg3")
           .row.justify-content-center.align-items-start(titulo="Indicadores de gestión externos o internos")
             .col-12
-              p Externos. Son aquellos KPI que miden el impacto de la marca en la audiencia externa. Ejemplo: porcentaje de clientes satisfechos.
+              p <b>Externos</b>. Son aquellos KPI que miden el impacto de la marca en la audiencia externa. Ejemplo: porcentaje de clientes satisfechos.
 
-              p Internos. Son los indicadores de gestión relacionados con los procesos internos de la marca. Ejemplo: ingresos por empleado. 
+              p <b>Internos</b>. Son los indicadores de gestión relacionados con los procesos internos de la marca. Ejemplo: ingresos por empleado. 
           .row.justify-content-center.align-items-start(titulo="Indicadores de gestión cuantitativos o cualitativos")
             .col-12
-              p Cuantitativos. Este criterio incluye los KPI que miden procesos objetivos de producción y servicio y se expresan en valores numéricos. Ejemplo: volumen de ingresos por ventas.
+              p <b>Cuantitativos</b>. Este criterio incluye los KPI que miden procesos objetivos de producción y servicio y se expresan en valores numéricos. Ejemplo: volumen de ingresos por ventas.
 
-              p Cualitativos. Son los indicadores de gestión que miden percepciones subjetivas acerca del funcionamiento de la empresa. Ejemplo: calificación de la calidad del servicio.   
+              p <b>Cualitativos</b>. Son los indicadores de gestión que miden percepciones subjetivas acerca del funcionamiento de la empresa. Ejemplo: calificación de la calidad del servicio.   
   
           .row.justify-content-center.align-items-start(titulo="Indicadores de gestión para medir eficacia y eficiencia")
             .col-12
-              p Eficacia. Bajo este criterio se agrupan los KPI que miden el funcionamiento objetivo de la organización. Ejemplo: cantidad de productos fabricados en el mes.
+              p <b>Eficacia</b>. Bajo este criterio se agrupan los KPI que miden el funcionamiento objetivo de la organización. Ejemplo: cantidad de productos fabricados en el mes.
 
-              p Eficiencia. Son los indicadores de gestión que permiten apreciar cómo la empresa utiliza, de manera racional, los recursos disponibles para obtener resultados superiores a los planificados. Ejemplo: cantidad de ventas proyectadas frente a cantidad de ventas conseguidas.
+              p <b>Eficiencia</b>. Son los indicadores de gestión que permiten apreciar cómo la empresa utiliza, de manera racional, los recursos disponibles para obtener resultados superiores a los planificados. Ejemplo: cantidad de ventas proyectadas frente a cantidad de ventas conseguidas.
+
+    p(data-aos="fade-down") Algunos de los indicadores explicados anteriormente, se trabajan en los planes de capacitación.
+    
+    p(data-aos="fade-down").mb-5 A continuación, se describen algunos ejemplos: 
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Cumplimiento" :icono="require('@/assets/curso/temas/65.svg')")

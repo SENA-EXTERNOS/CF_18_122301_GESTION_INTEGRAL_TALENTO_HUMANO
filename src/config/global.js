@@ -157,32 +157,118 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Concepto de coordinación',
+      referencia:
+        'Corporación Industrial Minuto de Dios. (2017). <i>10 pasos para realizar un plan de formación empresarial</i> (video).',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=5C2JzAv343c',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Concepto de coordinación',
+      referencia:
+        'Lay, M. T., Suárez, J. & Zamora, M. Modelo para gestionar la capacitación de directivos y reservas en la empresa ganadera cubana. <i>Pastos y Forrajes</i>, 28(3), p. 253-263. ',
+      tipo: 'PDF',
+      link: 'https://www.redalyc.org/pdf/2691/269121675009.pdf',
+    },
+    {
+      tema:
+        'Metodología para el control de asistentes, actividades y logística',
+      referencia:
+        'Lay, M. T., Suárez, J. & Zamora, M. Modelo para gestionar la capacitación de directivos y reservas en la empresa ganadera cubana. <i>Pastos y Forrajes</i>, 28(3), p. 253-263.',
+      tipo: 'PDF',
+      link:
+        'https://academia.utp.edu.co/seminario-investigacion-II/files/2017/03/Norma_Tecnica_Colombiana_NTC_1486_completa_archivo.pdf',
+    },
+    {
+      tema: 'Modelos de medición de capacitación',
+      referencia:
+        'Procem Consultores. (2019). <i>¿Qué son los indicadores de Gestión?</i> ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=5C2JzAv343c',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Capacitación',
+      significado:
+        'conjunto de procesos organizados, relativos tanto a la educación formal como a la informal, dirigidos a prolongar y a complementar la educación inicial mediante la generación de conocimientos, el desarrollo de habilidades y el cambio de actitudes.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Competencia',
+      significado:
+        'capacidad de una persona para desempeñar, en diferentes contextos y con base en los requerimientos de calidad y resultados esperados; capacidad determinada por los conocimientos, destrezas, habilidades, valores y actitudes.',
+    },
+    {
+      termino: 'Contingencia',
+      significado: 'posibilidad que algo suceda o no suceda.',
+    },
+    {
+      termino: 'Cotización',
+      significado:
+        'documento que establece el  precio a pagar por un bien o servicio.',
+    },
+    {
+      termino: 'Evaluación',
+      significado:
+        'valoración de conocimientos, actitud y rendimiento de una persona o de un servicio.',
+    },
+    {
+      termino: 'Formación',
+      significado:
+        'procesos que tienen por objeto específico desarrollar y fortalecer una ética del servicio público basada en los principios que rigen la función administrativa.',
+    },
+    {
+      termino: 'Indicador',
+      significado:
+        'indicador de gestión (KPI) es una forma de medir si una empresa, unidad, proyecto o persona está logrando sus metas y objetivos estratégicos.',
+    },
+    {
+      termino: 'Informe ejecutivo',
+      significado:
+        'documento escrito que resume los puntos más destacados de un informe más extenso.',
+    },
+    {
+      termino: 'Logística',
+      significado:
+        'conjunto de los medios y métodos que permiten llevar a cabo la organización de una empresa o de un servicio.',
+    },
+    {
+      termino: 'Proveedor',
+      significado:
+        'persona o una empresa que abastece a otras empresas con existencias (artículos), los cuales serán vendidos directamente o transformados para su posterior venta.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Da Silva, D. (2021). <i>¿Qué son los indicadores de gestión y como impactan en el servicio al cliente?</i>',
+      link: 'https://www.zendesk.com.mx/blog/indicadores-gestion/',
+    },
+    {
+      referencia: 'jmp. Statistical Discovery. (s.f.). Tipos de gráficos.',
+      link:
+        'https://www.jmp.com/es_co/statistics-knowledge-portal/exploratory-data-analysis/types-of-graphs.html#907483fa-2882-4c56-b2e5-1788419af8c7',
+    },
+    {
+      referencia:
+        'PMK Digital Learning. (2020). <i>KPI Relevantes para Medir la Efectividad de la Gestión de Capacitación</i>.',
+      link: 'https://pmkvirtual.com/blog/kpi/',
+    },
+    {
+      referencia:
+        'Question Pro. (s.f.). <i>Instrumentos de Evaluación de capacitación escolar</i>.',
+      link:
+        'https://www.questionpro.com/blog/es/instrumentos-de-evaluacion-de-capacitacion/#:~:text=Los%20instrumentos%20de%20evaluaci%C3%B3n%20de%20capacitaci%C3%B3n%20sobre%20la%20estructura%20del,las%20clases%20y%20la%20pr%C3%A1ctica.',
+    },
+    {
+      referencia:
+        'Real Academia Española. (s.f.). <i>Diccionario de la lengua española</i>.',
+      link: 'https://dle.rae.es/',
+    },
+    {
+      referencia:
+        'Rodrigues, N. (2021). <i>Cómo elaborar un plan de mejora en 7 pasos</i>.',
+      link: 'https://blog.hubspot.es/sales/plan-de-mejora',
     },
   ],
   creditos: {

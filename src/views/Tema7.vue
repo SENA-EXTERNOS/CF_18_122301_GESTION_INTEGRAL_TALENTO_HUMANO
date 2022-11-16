@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.bloque-fondo7
     .titulo-principal.color-acento-contenido(data-aos="zoom-in-left")
       .titulo-principal__numero
         span 7
@@ -18,39 +18,39 @@
         .col-lg-10
           PasosA.color-primario(tipo="l")
             .row.justify-content-center.align-items-center
-              .col-lg-9.my-3
+              .col-lg-8.my-3
                 h4.mb-4 Operaciones más eficientes
                 p(data-aos="fade-left") Implementar un plan de mejora en los procesos permite aplicar acciones correctivas a procesos deficientes. Ayuda a eliminar aquellos componentes que consumen mucho tiempo y que, además, son innecesarios; de esta manera, los procesos se vuelven más eficaces.  
-              .col-lg-3.my-3
+              .col-lg-4.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/82.png', alt='')
             .row.justify-content-center.align-items-center
-              .col-lg-3.order-1.my-3
+              .col-lg-4.order-1.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/83.png', alt='')            
-              .col-lg-9.text-start.order-lg-2.my-3
+              .col-lg-8.text-start.order-lg-2.my-3
                 h4.mb-4 Mejora la gestión de la organización
                 p(data-aos="fade-right") Los planes de mejora implican esfuerzos en equipo a partir de la gestión de los procesos y sus funciones. Esto permite tener un funcionamiento exitoso del proceso y una mejora en la organización.   
             .row.justify-content-center.align-items-center
-              .col-lg-9.my-3
+              .col-lg-8.my-3
                 h4.mb-4 Faculta a tomar mejores decisiones
                 p(data-aos="fade-left") Sin duda, uno de los grandes beneficios de implementar planes de mejora en los procesos es la toma de decisiones informadas que impulsan a la optimización.  
-              .col-lg-3.my-3
+              .col-lg-4.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/84.png', alt='')
             .row.justify-content-center.align-items-center
-              .col-lg-3.order-1.my-3
+              .col-lg-4.order-1.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/85.png', alt='')            
-              .col-lg-9.text-start.order-lg-2.my-3
+              .col-lg-8.text-start.order-lg-2.my-3
                 h4.mb-4 Mejora la productividad
                 p(data-aos="fade-right") Por medio de un plan de mejora, en el proceso se pueden implementar aplicaciones de automatización para que los empleados mejoren su productividad. Al simplificar tareas repetitivas, su tiempo valioso lo podrán dedicar a labores más estratégicas. De esta forma, se impulsa la productividad en general.   
             .row.justify-content-center.align-items-center
-              .col-lg-9.my-3
+              .col-lg-8.my-3
                 h4.mb-4 Satisfacción de empleados
                 p(data-aos="fade-left") Cuando los procesos funcionan de manera correcta, ayudan a motivar a los miembros de los equipos que destinan su tiempo en la implementación de los mismos. Por el contrario, un proceso ineficiente podría generar frustración en los empleados, pues les hace sentir que sus esfuerzos no valen la pena. Un plan de mejora de procesos, bien elaborado, podría mejorar la satisfacción de los empleados y hacer que participen de manera positiva en el proceso.   
-              .col-lg-3.my-3
+              .col-lg-4.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/86.png', alt='')
             .row.justify-content-center.align-items-center
-              .col-lg-3.order-1.my-3
+              .col-lg-4.order-1.my-3
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/87.png', alt='')            
-              .col-lg-9.text-start.order-lg-2.my-3
+              .col-lg-8.text-start.order-lg-2.my-3
                 h4.mb-4 Satisfacción del cliente
                 p(data-aos="fade-right") El plan de mejora es un proceso con enfoque interno y externo. El resultado final de cada proceso es el de cubrir las necesidades de los clientes y el punto de vista de los consumidores del producto o servicio. La implementación de este análisis aumenta el valor de los procesos y asegura su éxito.   
     .row.justify-content-start.align-items-center.mb-5           
@@ -150,7 +150,7 @@
           .col-auto 
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/96.svg', alt='')
           .col
-            p(data-aos="fade-down") <b>lazo de ejecución</b>. Es la fecha límite para desarrollar la acción. 
+            p(data-aos="fade-down") <b>Plazo de ejecución</b>. Es la fecha límite para desarrollar la acción. 
           hr.mt-4   
       .col-lg-5
         .row.justify-content-center.align-items-start      
@@ -190,4 +190,10 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.bloque-fondo7
+  background-image: url(../assets/curso/temas/99.png)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: bottom
+</style>
