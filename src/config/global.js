@@ -174,7 +174,7 @@ export default {
       tema:
         'Metodología para el control de asistentes, actividades y logística',
       referencia:
-        'Lay, M. T., Suárez, J. & Zamora, M. Modelo para gestionar la capacitación de directivos y reservas en la empresa ganadera cubana. <i>Pastos y Forrajes</i>, 28(3), p. 253-263.',
+        'Icontec. (2008). <i>Norma Técnica Colombiana 1486 - Documentación. Presentación de tesis, trabajos de grado y otros trabajos de investigación.</i> ',
       tipo: 'PDF',
       link:
         'https://academia.utp.edu.co/seminario-investigacion-II/files/2017/03/Norma_Tecnica_Colombiana_NTC_1486_completa_archivo.pdf',
