@@ -64,7 +64,7 @@
             h4.mb-4 Mapa de calor
             p Muestra la posible relación entre variables. Se suele utilizar para datos que cambian con el tiempo. Usa colores para explorar la relación entre variables.        
           .col-md-6 
-              img.img-a.img-t(src='@/assets/curso/temas/52.png', alt='')
+              img.img-a.img-t(src='@/assets/curso/temas/52.svg', alt='')
         .row.justify-content-center.align-items-start.py-4
           .col-md-5.mb-4.mb-md-0
             h4.mb-4 Diagrama de caja y bigotes
