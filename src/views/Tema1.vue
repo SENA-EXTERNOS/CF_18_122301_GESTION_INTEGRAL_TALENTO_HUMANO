@@ -71,8 +71,8 @@
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/11.svg', alt='')    
         .col-lg-10
           p(data-aos="fade-down") Capacitar a los trabajadores implica involucrarlos para poner en funcionamiento sus habilidades y conocimientos, procurando realizar con mayor propiedad, las funciones de su cargo, con el fin de lograr la consecución de objetivos organizacionales que permitan una mayor competitividad de la empresa en el mercado.
-    p(data-aos="fade-down").mb-5 Lo invitamos a ver el siguiente video, donde se nos amplía la temática sobre la capacitación. 
-
+    p(data-aos="fade-down").mb-5 Lo invitamos a ver el siguiente video, donde se nos amplía la temática sobre la capacitación:
+    
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
         figure

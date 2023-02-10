@@ -78,8 +78,9 @@
               li 
                 i.fas.fa-angle-right.colorv1
                 p.mb-0 Establecer prioridades en las líneas de actuación.
-    p(data-aos="fade-down") Para diseñar un plan de mejora se deben tener en cuenta varios aspectos importantes.
-    p(data-aos="fade-down").mb-5 Para diseñar un plan de mejora se deben tener en cuenta varios aspectos importantes.
+    p(data-aos="fade-down") Para diseñar un plan de mejora, se deben tener en cuenta varios aspectos importantes.
+    p(data-aos="fade-down").mb-5 Conozcamos cada uno de ellos:
+    
     .row.justify-content-center.align-items-center          
       .col-lg-10
         img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/89.svg', alt='')            
@@ -170,7 +171,8 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados en el componente formativo.                    
+          p(data-aos="fade-down").mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+          
 </template>
 
 <script>

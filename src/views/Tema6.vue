@@ -98,8 +98,8 @@
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/76.png', alt='')    
       .col-lg-10
-        p(data-aos="fade-down") Para evaluar una capacitación en sí misma, se procede con instrumentos de evaluación que se pueden diseñar fácilmente y que pueden aportar, así como los indicadores de gestión del proceso, información para conocer el nivel de apropiación del conocimiento generado en la capacitación o retroalimentación del proceso vivenciado. A continuación, se profundiza un poco más en el tema. 
-
+        p(data-aos="fade-down") Para evaluar una capacitación en sí misma, se procede con instrumentos de evaluación que se pueden diseñar fácilmente y que pueden aportar, así como los indicadores de gestión del proceso, información para conocer el nivel de apropiación del conocimiento generado en la capacitación o retroalimentación del proceso vivenciado. A continuación, se profundiza un poco más en el tema:
+        
     p(data-aos="fade-down").mb-5 En el desarrollo del proceso de evaluación, se pueden identificar dos tipos de evaluación:
 
     TabsC.color-acento-contenido.mb-5
