@@ -184,7 +184,7 @@ export default {
       referencia:
         'Procem Consultores. (2019). <i>¿Qué son los indicadores de Gestión?</i> ',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=5C2JzAv343c',
+      link: 'https://www.youtube.com/watch?v=ON2_v7GrDE0',
     },
   ],
   glosario: [
@@ -252,7 +252,8 @@ export default {
     {
       referencia:
         'PMK Digital Learning. (2020). <i>KPI Relevantes para Medir la Efectividad de la Gestión de Capacitación</i>.',
-      link: 'https://pmkvirtual.com/blog/kpi/',
+      link:
+        'https://es.scribd.com/document/537505312/KPI-Relevantes-en-la-Gestion-de-Capacitacion-PMK-Psicomarketing',
     },
     {
       referencia:
