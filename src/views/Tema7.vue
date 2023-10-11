@@ -123,7 +123,7 @@
           .col-auto 
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/92.svg', alt='')
           .col
-            p(data-aos="fade-down") <b>Indicadores</b>. Muestras observables que se avanza hacia el objetivo planteado. (Crucial para verificar el cumplimiento del plan).
+            p(data-aos="fade-down") <b>Indicadores</b>. Muestras observables de que se avanza hacia el objetivo planteado. (crucial para verificar el cumplimiento del plan).
           hr.mt-4   
       .col-lg-5
         .row.justify-content-center.align-items-start      

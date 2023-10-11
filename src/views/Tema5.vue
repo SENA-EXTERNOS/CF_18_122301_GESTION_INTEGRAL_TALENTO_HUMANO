@@ -119,7 +119,7 @@
       .col-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/59.png', alt='')    
       .col-lg-10
-        p(data-aos="fade-down") Para presentación de un informe de gestión del plan de capacitación, se puede utilizar como guía la norma técnica colombiana 1486 para la elaboración de informes; allí se puede encontrar una guía en relación a márgenes, portada, introducción, tabla de contenido, cuerpo del texto, conclusiones y bibliografía. 
+        p(data-aos="fade-down") Para presentación de un informe de gestión del plan de capacitación, se puede utilizar como guía la Norma Técnica Colombiana 1486 para la elaboración de informes; allí se puede encontrar una guía en relación a márgenes, portada, introducción, tabla de contenido, cuerpo del texto, conclusiones y bibliografía. 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10    
